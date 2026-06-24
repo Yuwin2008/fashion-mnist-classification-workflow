@@ -6,6 +6,26 @@ An end-to-end machine learning classification project implementing the complete 
 
 Build and evaluate multiple machine learning models on the Fashion MNIST dataset while exploring the complete classification pipeline, including model evaluation, threshold tuning, multiclass classification, and error analysis.
 
+##  Repository Structure
+
+fashion-mnist-classification-workflow/
+
+├── README.md
+
+├── fashion_mnist_classification.ipynb
+
+├── images/
+
+│   ├── fashion_samples.jpg
+
+│   ├── roc_curve.jpg
+
+│   ├── confusion_matrix.jpg
+
+│   └── error_analysis.jpg
+
+└── requirements.txt
+
 ##  Dataset
 
 Fashion MNIST consists of 70,000 grayscale images of clothing items across 10 categories:
